@@ -1,1 +1,1 @@
-# NewProject Earhquake application has been written with SpringBoot.
+# Earhquake application has been written with SpringBoot.
